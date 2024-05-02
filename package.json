@@ -7,12 +7,18 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.6.8",
+    "primereact": "^10.6.4",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.2",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.23.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "final-form": "^4.20.2",
+    "primeflex": "^3.2.1",
+    "primeicons": "^6.0.1",
+    "react-final-form": "^6.5.3",
+    "react-transition-group": "^4.4.5"
   },
   "scripts": {
     "start": "react-scripts start",
